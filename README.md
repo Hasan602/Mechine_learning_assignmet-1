@@ -1,1 +1,1 @@
-# Mechine_learning_assignmet-1
+# Mechine_learning_assignment-1
